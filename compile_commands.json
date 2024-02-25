@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-I/opt/homebrew/Cellar/raylib/5.0/include",
+      "-o",
+      "SnakeGame",
+      "main.c"
+    ],
+    "directory": "/Users/dtz/snake_c",
+    "file": "/Users/dtz/snake_c/main.c",
+    "output": "/Users/dtz/snake_c/SnakeGame"
+  }
+]

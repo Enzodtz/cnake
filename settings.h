@@ -1,0 +1,11 @@
+#define GAME_SIZE 10
+
+#define SNAKE_SPEED 500
+#define SNAKE_SIZE_LIMIT 100
+#define TARGET_FPS 60
+#define PIECE_SIZE 60
+#define EYE_SIZE 3
+#define TONGUE_SIZE_X 7
+#define TONGUE_SIZE_Y 3
+#define APPLE_ROD_SIZE_X 3
+#define APPLE_ROD_SIZE_Y 7
